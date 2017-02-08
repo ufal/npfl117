@@ -1,5 +1,8 @@
 # Deep Learning Seminar &ndash; ÚFAL Course NPFL117
 
+This repository contains materials to the
+[Deep Learning Seminar (ÚFAL course NPFL117)](http://ufal.mff.cuni.cz/courses/npfl117/current).
+
 In recent years, **deep neural networks** have been used to solve complex
 machine-learning problems and have achieved significant **state-of-the-art**
 results in **many** areas. The whole field of deep learning has been developing
