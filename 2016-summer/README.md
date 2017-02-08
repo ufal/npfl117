@@ -7,22 +7,22 @@ If you want to receive announcements about chosen papers, sign up to our
 
 ## Program
 
-| Date          | Who                | Title | Link
-| ----          | ---                | ----- | ----
-| 21 Feb 2017   | &nbsp;             |       |
-| 28 Feb 2017   | &nbsp;             |       |
-| 07 Mar 2017   | &nbsp;             |       |
-| 14 Mar 2017   | &nbsp;             |       |
-| 21 Mar 2017   | &nbsp;             |       |
-| 28 Mar 2017   | &nbsp;             |       |
-| 04 Apr 2017   | &nbsp;             |       |
-| 11 Apr 2017   | &nbsp;             |       |
-| 18 Apr 2017   | &nbsp;             |       |
-| 25 Apr 2017   | &nbsp;             |       |
-| 02 May 2017   | &nbsp;             |       |
-| 09 May 2017   | &nbsp;             |       |
-| 16 May 2017   | &nbsp;             |       |
-| 23 May 2017   | &nbsp;             |       |
+| Date          | Who                | Title  | Link
+| ----          | ---                | -----  | ----
+| 21 Feb 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 28 Feb 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 07 Mar 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 14 Mar 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 21 Mar 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 28 Mar 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 04 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 11 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 18 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 25 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 02 May 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 09 May 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 16 May 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 23 May 2017   | &nbsp;             | &nbsp; | &nbsp;
 
 ## Papers for Inspiration
 
