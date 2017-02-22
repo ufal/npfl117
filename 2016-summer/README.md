@@ -9,7 +9,7 @@ If you want to receive announcements about chosen papers, sign up to our
 
 | Date          | Who                | Title  | Link
 | ----          | ---                | -----  | ----
-| 28 Feb 2017   | Mirek Olšák        | HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving | https://openreview.net/pdf?id=ryuxYmvel
+| 28 Feb 2017   | Mirek Olšák        | C. Kaliszyk, F. Chollet, C. Szegedy: **HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving** | https://openreview.net/pdf?id=ryuxYmvel
 | &nbsp;        | &nbsp;             | TreeRNN-based implementation of Mirek Olšák surpassing accuracy of above paper from 83% to 88% | https://github.com/mirefek/HolStep-Tree
 | 07 Mar 2017   | &nbsp;             | &nbsp; | &nbsp;
 | 14 Mar 2017   | &nbsp;             | &nbsp; | &nbsp;
