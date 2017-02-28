@@ -65,6 +65,9 @@ inspiration, you can look at the following list.
 - Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling: **Learning to Compose Words into Sentences with Reinforcement Learning**. https://arxiv.org/abs/1611.09100
 - Chelsea Finn, Tianhe Yu, Justin Fu, Pieter Abbeel, Sergey Levine: **Generalizing Skills with Semi-Supervised Reinforcement Learning**. https://arxiv.org/abs/1612.00429
 
+#### Program Generation
+- Matej Balog, Alexander L. Gaunt, Marc Brockschmidt, Sebastian Nowozin, Daniel Tarlow: **DeepCoder : Learning to Write Programs**. https://openreview.net/pdf?id=ByldLrqlx
+
 #### Adversarial Networks
 
 - Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu: **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**. https://arxiv.org/abs/1609.05473
