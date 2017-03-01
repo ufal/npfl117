@@ -29,6 +29,10 @@ If you want to receive announcements about chosen papers, sign up to our
 You can choose **any paper** you find interesting, but if you would like some
 inspiration, you can look at the following list.
 
+#### Collections of Deep Learning Papers
+- https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+- https://github.com/terryum/awesome-deep-learning-papers
+
 #### Word Embeddings
 
 - Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai: **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings**. https://arxiv.org/abs/1607.06520
