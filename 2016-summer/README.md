@@ -93,6 +93,12 @@ inspiration, you can look at the following list.
 
 - Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan: **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**. https://arxiv.org/abs/1609.06647
 
+#### Image Enhancement
+
+- Justin Johnson, Alexandre Alahi, Li Fei-Fei: **Perceptual Losses for Real-Time Style Transfer and Super-Resolution**. https://arxiv.org/abs/1603.08155
+- Richard Zhang, Phillip Isola, Alexei A. Efros: **Colorful Image Colorization**. https://arxiv.org/abs/1603.08511
+- Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi: **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**. https://arxiv.org/abs/1609.04802
+
 #### Speech Synthesis
 
 - Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu: **WaveNet: A Generative Model for Raw Audio**. https://arxiv.org/abs/1609.03499
