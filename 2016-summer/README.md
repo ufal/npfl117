@@ -98,6 +98,7 @@ inspiration, you can look at the following list.
 - Justin Johnson, Alexandre Alahi, Li Fei-Fei: **Perceptual Losses for Real-Time Style Transfer and Super-Resolution**. https://arxiv.org/abs/1603.08155
 - Richard Zhang, Phillip Isola, Alexei A. Efros: **Colorful Image Colorization**. https://arxiv.org/abs/1603.08511
 - Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi: **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**. https://arxiv.org/abs/1609.04802
+- Ryan Dahl, Mohammad Norouzi, Jonathon Shlens: **Pixel Recursive Super Resolution**. https://arxiv.org/pdf/1702.00783.pdf
 
 #### Speech Synthesis
 
