@@ -93,6 +93,10 @@ inspiration, you can look at the following list.
 
 - Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan: **Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge**. https://arxiv.org/abs/1609.06647
 
+#### Image Recognition
+
+- Yuntian Deng, Anssi Kanervisto, Alexander M. Rush: **What You Get Is What You See: A Visual Markup Decompiler**. https://arxiv.org/pdf/1609.04938v1.pdf
+
 #### Image Enhancement
 
 - Justin Johnson, Alexandre Alahi, Li Fei-Fei: **Perceptual Losses for Real-Time Style Transfer and Super-Resolution**. https://arxiv.org/abs/1603.08155
