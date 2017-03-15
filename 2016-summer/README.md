@@ -13,10 +13,12 @@ If you want to receive announcements about chosen papers, sign up to our
 | &nbsp;        | &nbsp;             | TreeRNN-based implementation of Mirek Olšák surpassing accuracy of above paper from 83% to 88% | https://github.com/mirefek/HolStep-Tree
 | 07 Mar 2017   | Dušan Variš        | Jason Lee, Kyunghyun Cho, Thomas Hofmann: **Fully Character-Level Neural Machine Translation without Explicit Segmentation** | https://arxiv.org/abs/1610.03017
 | 14 Mar 2017   | Karel Král         | Geoffrey Hinton, Oriol Vinyals, Jeff Dean: **Distilling the Knowledge in a Neural Network** | https://arxiv.org/abs/1503.02531
-| 21 Mar 2017   | Milan Straka       | &nbsp; | &nbsp;
+| &nbsp;        | &nbsp;             | Lei Jimmy Ba, Rich Caruana: **Do Deep Nets Really Need to be Deep?** | https://arxiv.org/abs/1312.6184
+| 21 Mar 2017   | Milan Straka       | Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig: **Deep Learning with Dynamic Computation Graphs** | https://arxiv.org/abs/1702.02181
+| &nbsp;        | &nbsp;             | Lingpeng Kong, Chris Alberti, Daniel Andor, Ivan Bogatyy, David Weiss: **DRAGNN: A Transition-Based Framework for Dynamically Connected Neural Networks** | https://openreview.net/pdf?id=BycCx8qex
 | 28 Mar 2017   | Lukáš Jendele      | &nbsp; | &nbsp;
 | 04 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
-| 11 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 11 Apr 2017   | Jan Hajič jr.      | &nbsp; | &nbsp;
 | 18 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
 | 25 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
 | 02 May 2017   | &nbsp;             | &nbsp; | &nbsp;
