@@ -17,7 +17,7 @@ If you want to receive announcements about chosen papers, sign up to our
 | 21 Mar 2017   | Milan Straka       | Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig: **Deep Learning with Dynamic Computation Graphs** | https://arxiv.org/abs/1702.02181
 | &nbsp;        | &nbsp;             | Lingpeng Kong, Chris Alberti, Daniel Andor, Ivan Bogatyy, David Weiss: **DRAGNN: A Transition-Based Framework for Dynamically Connected Neural Networks** | https://arxiv.org/abs/1703.04474
 | 28 Mar 2017   | Lukáš Jendele      | &nbsp; | &nbsp;
-| 04 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 04 Apr 2017   | Ondrej Škopek      | &nbsp; | &nbsp;
 | 11 Apr 2017   | Jan Hajič jr.      | &nbsp; | &nbsp;
 | 18 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
 | 25 Apr 2017   | &nbsp;             | &nbsp; | &nbsp;
