@@ -16,7 +16,7 @@ If you want to receive announcements about chosen papers, sign up to our
 | &nbsp;        | &nbsp;             | Lei Jimmy Ba, Rich Caruana: **Do Deep Nets Really Need to be Deep?** | https://arxiv.org/abs/1312.6184
 | 21 Mar 2017   | Milan Straka       | Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig: **Deep Learning with Dynamic Computation Graphs** | https://arxiv.org/abs/1702.02181
 | &nbsp;        | &nbsp;             | Lingpeng Kong, Chris Alberti, Daniel Andor, Ivan Bogatyy, David Weiss: **DRAGNN: A Transition-Based Framework for Dynamically Connected Neural Networks** | https://arxiv.org/abs/1703.04474
-| 28 Mar 2017   | Lukáš Jendele      | &nbsp; | &nbsp;
+| 28 Mar 2017   | Lukáš Jendele      | Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei: **Fully Convolutional Instance-aware Semantic Segmentation** | https://arxiv.org/abs/1611.07709
 | 04 Apr 2017   | Ondrej Škopek      | Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio: **Neural Combinatorial Optimization with Reinforcement Learning** | https://arxiv.org/abs/1611.09940
 | &nbsp;        | &nbsp;             | Oriol Vinyals, Meire Fortunato, Navdeep Jaitly: **Pointer Networks** | https://arxiv.org/abs/1506.03134
 | 11 Apr 2017   | Jan Hajič jr.      | &nbsp; | &nbsp;
