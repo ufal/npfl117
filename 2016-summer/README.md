@@ -20,7 +20,8 @@ If you want to receive announcements about chosen papers, sign up to our
 | &nbsp;        | &nbsp;             | Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei: **Fully Convolutional Instance-aware Semantic Segmentation** | https://arxiv.org/abs/1611.07709
 | 04 Apr 2017   | Ondrej Škopek      | Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio: **Neural Combinatorial Optimization with Reinforcement Learning** | https://arxiv.org/abs/1611.09940
 | &nbsp;        | &nbsp;             | Oriol Vinyals, Meire Fortunato, Navdeep Jaitly: **Pointer Networks** | https://arxiv.org/abs/1506.03134
-| 11 Apr 2017   | Jan Hajič jr.      | &nbsp; | &nbsp;
+| 11 Apr 2017   | Jan Hajič jr.      | Diederik P Kingma, Max Welling: **Auto-Encoding Variational Bayes** | https://arxiv.org/abs/1312.6114
+| &nbsp;        | &nbsp;             | Francisco J. R. Ruiz, Michalis K. Titsias, David M. Blei: **The Generalized Reparameterization Gradient** | https://papers.nips.cc/paper/6328-the-generalized-reparameterization-gradient.pdf
 | 18 Apr 2017   | Jindřich Libovický | &nbsp; | &nbsp;
 | 25 Apr 2017   | Milan Straka       | &nbsp; | &nbsp;
 | 02 May 2017   | &nbsp;             | &nbsp; | &nbsp;
