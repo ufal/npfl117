@@ -24,10 +24,10 @@ If you want to receive announcements about chosen papers, sign up to our
 | &nbsp;        | &nbsp;             | Francisco J. R. Ruiz, Michalis K. Titsias, David M. Blei: **The Generalized Reparameterization Gradient** | https://papers.nips.cc/paper/6328-the-generalized-reparameterization-gradient.pdf
 | 18 Apr 2017   | Jindřich Libovický | Holger Schwenk, Ke Tran, Orhan Firat, Matthijs Douze: **Learning Joint Multilingual Sentence Representations with Neural Machine Translation** | https://arxiv.org/abs/1704.04154
 | 25 Apr 2017   | Milan Straka       | &nbsp; | &nbsp;
-| 02 May 2017   | &nbsp;             | &nbsp; | &nbsp;
-| 09 May 2017   | &nbsp;             | &nbsp; | &nbsp;
-| 16 May 2017   | &nbsp;             | &nbsp; | &nbsp;
-| 23 May 2017   | &nbsp;             | &nbsp; | &nbsp;
+| 02 May 2017   | David Mareček      | &nbsp; | &nbsp;
+| 09 May 2017   | Rudolf Rosa        | &nbsp; | &nbsp;
+| 16 May 2017   | Jindřich Helcl     | &nbsp; | &nbsp;
+| 23 May 2017   | Jan Hajič jr.      | &nbsp; | &nbsp;
 
 ## Papers for Inspiration
 
