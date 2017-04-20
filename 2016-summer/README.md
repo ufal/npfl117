@@ -23,7 +23,8 @@ If you want to receive announcements about chosen papers, sign up to our
 | 11 Apr 2017   | Jan Hajič jr.      | Diederik P Kingma, Max Welling: **Auto-Encoding Variational Bayes** | https://arxiv.org/abs/1312.6114
 | &nbsp;        | &nbsp;             | Francisco J. R. Ruiz, Michalis K. Titsias, David M. Blei: **The Generalized Reparameterization Gradient** | https://papers.nips.cc/paper/6328-the-generalized-reparameterization-gradient.pdf
 | 18 Apr 2017   | Jindřich Libovický | Holger Schwenk, Ke Tran, Orhan Firat, Matthijs Douze: **Learning Joint Multilingual Sentence Representations with Neural Machine Translation** | https://arxiv.org/abs/1704.04154
-| 25 Apr 2017   | Milan Straka       | &nbsp; | &nbsp;
+| 25 Apr 2017   | Milan Straka       | Mevlana Gemici et al.: **Generative Temporal Models with Memory** | https://arxiv.org/abs/1702.04649
+| &nbsp;        | &nbsp;             | Alex Graves et al.: **Hybrid computing using a neural network with dynamic external memory** | https://www.gwern.net/docs/2016-graves.pdf
 | 02 May 2017   | David Mareček      | Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling: **Learning to Compose Words into Sentences with Reinforcement Learning** | https://arxiv.org/abs/1611.09100
 | 09 May 2017   | Rudolf Rosa        | &nbsp; | &nbsp;
 | 16 May 2017   | Jindřich Helcl     | &nbsp; | &nbsp;
