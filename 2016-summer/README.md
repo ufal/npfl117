@@ -26,7 +26,7 @@ If you want to receive announcements about chosen papers, sign up to our
 | 25 Apr 2017   | Milan Straka       | Mevlana Gemici et al.: **Generative Temporal Models with Memory** | https://arxiv.org/abs/1702.04649
 | &nbsp;        | &nbsp;             | Alex Graves et al.: **Hybrid computing using a neural network with dynamic external memory** | https://www.gwern.net/docs/2016-graves.pdf
 | 02 May 2017   | David Mareček      | Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling: **Learning to Compose Words into Sentences with Reinforcement Learning** | https://arxiv.org/abs/1611.09100
-| 09 May 2017   | Rudolf Rosa        | &nbsp; | &nbsp;
+| 09 May 2017   | Rudolf Rosa        | Michael Sejr Schlichtkrull, Anders Søgaard: Cross-Lingual Dependency Parsing with Late Decoding for Truly Low-Resource Languages | https://www.aclweb.org/anthology/E/E17/E17-1021.pdf
 | 16 May 2017   | Jindřich Helcl     | &nbsp; | &nbsp;
 | 23 May 2017   | Jan Hajič jr.      | &nbsp; | &nbsp;
 
