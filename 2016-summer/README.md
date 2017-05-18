@@ -28,7 +28,7 @@ If you want to receive announcements about chosen papers, sign up to our
 | 02 May 2017   | David Mareček      | Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling: **Learning to Compose Words into Sentences with Reinforcement Learning** | https://arxiv.org/abs/1611.09100
 | 09 May 2017   | Rudolf Rosa        | Michael Sejr Schlichtkrull, Anders Søgaard: **Cross-Lingual Dependency Parsing with Late Decoding for Truly Low-Resource Languages** | https://www.aclweb.org/anthology/E/E17/E17-1021.pdf
 | 16 May 2017   | Jindřich Helcl     | Noam Shazeer et al.: **Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer** | https://arxiv.org/abs/1701.06538
-| 23 May 2017   | Jan Hajič jr.      | &nbsp; | &nbsp;
+| 23 May 2017   | Peter Zborovský    | Luca Bertinetto et al.: **Fully-Convolutional Siamese Networks for Object Tracking** | https://arxiv.org/abs/1606.09549
 
 ## Papers for Inspiration
 
