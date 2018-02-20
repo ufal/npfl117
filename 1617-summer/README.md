@@ -1,6 +1,6 @@
-# Deep Learning Seminar - Summer 2016
+# Deep Learning Seminar - Summer 2016/17
 
-*In summer semester 2016, the Deep Learning Seminar takes place on **Tuesday** at **12:20** in **S1**. We will first meet on Tuesday **Feb 28**.*
+*In summer semester 2016/17, the Deep Learning Seminar takes place on **Tuesday** at **12:20** in **S1**. We will first meet on Tuesday **Feb 28**.*
 
 If you want to receive announcements about chosen papers, sign up to our
 [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
