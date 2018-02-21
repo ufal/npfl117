@@ -15,28 +15,21 @@ The goal of the seminar is to follow the **newest advancements** in the deep lea
 If you want to receive announcements about chosen papers, sign up to our
 [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
 
-| Date          | Who                | Title  | Link
-| ----          | ---                | -----  | ----
-| 28 Feb 2017   | Mirek Olšák        | C. Kaliszyk, F. Chollet, C. Szegedy: **HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving** | https://openreview.net/pdf?id=ryuxYmvel
-| &nbsp;        | &nbsp;             | TreeRNN-based implementation of Mirek Olšák surpassing accuracy of above paper from 83% to 88% | https://github.com/mirefek/HolStep-Tree
-| 07 Mar 2017   | Dušan Variš        | Jason Lee, Kyunghyun Cho, Thomas Hofmann: **Fully Character-Level Neural Machine Translation without Explicit Segmentation** | https://arxiv.org/abs/1610.03017
-| 14 Mar 2017   | Karel Král         | Geoffrey Hinton, Oriol Vinyals, Jeff Dean: **Distilling the Knowledge in a Neural Network** | https://arxiv.org/abs/1503.02531
-| &nbsp;        | &nbsp;             | Lei Jimmy Ba, Rich Caruana: **Do Deep Nets Really Need to be Deep?** | https://arxiv.org/abs/1312.6184
-| 21 Mar 2017   | Milan Straka       | Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig: **Deep Learning with Dynamic Computation Graphs** | https://arxiv.org/abs/1702.02181
-| &nbsp;        | &nbsp;             | Lingpeng Kong, Chris Alberti, Daniel Andor, Ivan Bogatyy, David Weiss: **DRAGNN: A Transition-Based Framework for Dynamically Connected Neural Networks** | https://arxiv.org/abs/1703.04474
-| 28 Mar 2017   | Lukáš Jendele      | Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick: **Mask R-CNN**| https://arxiv.org/abs/1703.06870
-| &nbsp;        | &nbsp;             | Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei: **Fully Convolutional Instance-aware Semantic Segmentation** | https://arxiv.org/abs/1611.07709
-| 04 Apr 2017   | Ondrej Škopek      | Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio: **Neural Combinatorial Optimization with Reinforcement Learning** | https://arxiv.org/abs/1611.09940
-| &nbsp;        | &nbsp;             | Oriol Vinyals, Meire Fortunato, Navdeep Jaitly: **Pointer Networks** | https://arxiv.org/abs/1506.03134
-| 11 Apr 2017   | Jan Hajič jr.      | Diederik P Kingma, Max Welling: **Auto-Encoding Variational Bayes** | https://arxiv.org/abs/1312.6114
-| &nbsp;        | &nbsp;             | Francisco J. R. Ruiz, Michalis K. Titsias, David M. Blei: **The Generalized Reparameterization Gradient** | https://papers.nips.cc/paper/6328-the-generalized-reparameterization-gradient.pdf
-| 18 Apr 2017   | Jindřich Libovický | Holger Schwenk, Ke Tran, Orhan Firat, Matthijs Douze: **Learning Joint Multilingual Sentence Representations with Neural Machine Translation** | https://arxiv.org/abs/1704.04154
-| 25 Apr 2017   | Milan Straka       | Mevlana Gemici et al.: **Generative Temporal Models with Memory** | https://arxiv.org/abs/1702.04649
-| &nbsp;        | &nbsp;             | Alex Graves et al.: **Hybrid computing using a neural network with dynamic external memory** | https://www.gwern.net/docs/2016-graves.pdf
-| 02 May 2017   | David Mareček      | Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling: **Learning to Compose Words into Sentences with Reinforcement Learning** | https://arxiv.org/abs/1611.09100
-| 09 May 2017   | Rudolf Rosa        | Michael Sejr Schlichtkrull, Anders Søgaard: **Cross-Lingual Dependency Parsing with Late Decoding for Truly Low-Resource Languages** | https://www.aclweb.org/anthology/E/E17/E17-1021.pdf
-| 16 May 2017   | Jindřich Helcl     | Noam Shazeer et al.: **Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer** | https://arxiv.org/abs/1701.06538
-| 23 May 2017   | Peter Zborovský    | Luca Bertinetto et al.: **Fully-Convolutional Siamese Networks for Object Tracking** | https://arxiv.org/abs/1606.09549
+| Date          | Who                | Paper(s)
+| ----          | ---                | -----
+| 28 Feb 2017   | Mirek Olšák        | C. Kaliszyk, F. Chollet, C. Szegedy: **[HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving](https://openreview.net/pdf?id=ryuxYmvel)** <br> [TreeRNN-based implementation of Mirek Olšák](https://github.com/mirefek/HolStep-Tree) surpassing accuracy of above paper from 83% to 88%
+| 07 Mar 2017   | Dušan Variš        | Jason Lee, Kyunghyun Cho, Thomas Hofmann: **[Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://arxiv.org/abs/1610.03017)**
+| 14 Mar 2017   | Karel Král         | Geoffrey Hinton, Oriol Vinyals, Jeff Dean: **[Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)** <br> Lei Jimmy Ba, Rich Caruana: **[Do Deep Nets Really Need to be Deep?](https://arxiv.org/abs/1312.6184)**
+| 21 Mar 2017   | Milan Straka       | Moshe Looks, Marcello Herreshoff, DeLesley Hutchins, Peter Norvig: **[Deep Learning with Dynamic Computation Graphs](https://arxiv.org/abs/1702.02181)** <br> Lingpeng Kong, Chris Alberti, Daniel Andor, Ivan Bogatyy, David Weiss: **[DRAGNN: A Transition-Based Framework for Dynamically Connected Neural Networks](https://arxiv.org/abs/1703.04474)**
+| 28 Mar 2017   | Lukáš Jendele      | Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick: **[Mask R-CNN](https://arxiv.org/abs/1703.06870)** <br> Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei: **[Fully Convolutional Instance-aware Semantic Segmentation](https://arxiv.org/abs/1611.07709)**
+| 04 Apr 2017   | Ondrej Škopek      | Irwan Bello, Hieu Pham, Quoc V. Le, Mohammad Norouzi, Samy Bengio: **[Neural Combinatorial Optimization with Reinforcement Learning](https://arxiv.org/abs/1611.09940)** <br> Oriol Vinyals, Meire Fortunato, Navdeep Jaitly: **[Pointer Networks](https://arxiv.org/abs/1506.03134)**
+| 11 Apr 2017   | Jan Hajič jr.      | Diederik P Kingma, Max Welling: **[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)** <br> Francisco J. R. Ruiz, Michalis K. Titsias, David M. Blei: **[The Generalized Reparameterization Gradient](https://papers.nips.cc/paper/6328-the-generalized-reparameterization-gradient.pdf)**
+| 18 Apr 2017   | Jindřich Libovický | Holger Schwenk, Ke Tran, Orhan Firat, Matthijs Douze: **[Learning Joint Multilingual Sentence Representations with Neural Machine Translation](https://arxiv.org/abs/1704.04154)**
+| 25 Apr 2017   | Milan Straka       | Mevlana Gemici et al.: **[Generative Temporal Models with Memory](https://arxiv.org/abs/1702.04649)** <br>  Alex Graves et al.: **[Hybrid computing using a neural network with dynamic external memory](https://www.gwern.net/docs/2016-graves.pdf)**
+| 02 May 2017   | David Mareček      | Dani Yogatama, Phil Blunsom, Chris Dyer, Edward Grefenstette, Wang Ling: **[Learning to Compose Words into Sentences with Reinforcement Learning](https://arxiv.org/abs/1611.09100)**
+| 09 May 2017   | Rudolf Rosa        | Michael Sejr Schlichtkrull, Anders Søgaard: **[Cross-Lingual Dependency Parsing with Late Decoding for Truly Low-Resource Languages](https://www.aclweb.org/anthology/E/E17/E17-1021.pdf)**
+| 16 May 2017   | Jindřich Helcl     | Noam Shazeer et al.: **[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)**
+| 23 May 2017   | Peter Zborovský    | Luca Bertinetto et al.: **[Fully-Convolutional Siamese Networks for Object Tracking](https://arxiv.org/abs/1606.09549)**
 
 ## Papers for Inspiration
 
