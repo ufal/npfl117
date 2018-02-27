@@ -22,7 +22,7 @@ If you want to receive announcements about chosen papers, sign up to our
 | 13 Mar 2018 | &nbsp;             | &nbsp;
 | 20 Mar 2018 | &nbsp;             | &nbsp;
 | 27 Mar 2018 | &nbsp;             | &nbsp;
-| 03 Apr 2018 | &nbsp;             | &nbsp;
+| 03 Apr 2018 | Petr Houška        | &nbsp;
 | 10 Apr 2018 | &nbsp;             | &nbsp;
 | 17 Apr 2018 | &nbsp;             | &nbsp;
 | 24 Apr 2018 | &nbsp;             | &nbsp;
