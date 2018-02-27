@@ -14,15 +14,16 @@ The goal of the seminar is to follow the **newest advancements** in the deep lea
 
 If you want to receive announcements about chosen papers, sign up to our
 [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
+To add your name & paper to the table below, edit the [source code on GitHub](https://github.com/ufal/npfl117/edit/master/1718-summer/README.md) and send a PR.
 
 | Date        | Who                | Paper(s)
 | ----        | ---                | -----
 | 27 Feb 2018 | Milan Straka       | Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou: **[Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)**
-| 06 Mar 2018 | &nbsp;             | &nbsp;
+| 06 Mar 2018 | Martin Popel       | Michal Rolínek, Georg Martius: **[L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/abs/1802.05074v3)**
 | 13 Mar 2018 | &nbsp;             | &nbsp;
 | 20 Mar 2018 | Tomas Soucek       | TBA
-| 27 Mar 2018 | &nbsp;             | &nbsp;
-| 03 Apr 2018 | &nbsp;             | &nbsp;
+| 27 Mar 2018 | Petr Bělohlávek    | TBA
+| 03 Apr 2018 | Petr Houška        | &nbsp;
 | 10 Apr 2018 | &nbsp;             | &nbsp;
 | 17 Apr 2018 | &nbsp;             | &nbsp;
 | 24 Apr 2018 | &nbsp;             | &nbsp;
