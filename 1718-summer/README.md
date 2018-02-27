@@ -14,6 +14,7 @@ The goal of the seminar is to follow the **newest advancements** in the deep lea
 
 If you want to receive announcements about chosen papers, sign up to our
 [mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
+To add your name & paper to the table below, edit the [source code on GitHub](https://github.com/ufal/npfl117/edit/master/1718-summer/README.md) and send a PR.
 
 | Date        | Who                | Paper(s)
 | ----        | ---                | -----
