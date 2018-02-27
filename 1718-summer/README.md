@@ -20,7 +20,7 @@ If you want to receive announcements about chosen papers, sign up to our
 | 27 Feb 2018 | Milan Straka       | Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou: **[Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)**
 | 06 Mar 2018 | &nbsp;             | &nbsp;
 | 13 Mar 2018 | &nbsp;             | &nbsp;
-| 20 Mar 2018 | &nbsp;             | &nbsp;
+| 20 Mar 2018 | Tomas Soucek       | TBA
 | 27 Mar 2018 | &nbsp;             | &nbsp;
 | 03 Apr 2018 | &nbsp;             | &nbsp;
 | 10 Apr 2018 | &nbsp;             | &nbsp;
