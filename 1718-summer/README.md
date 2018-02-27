@@ -21,7 +21,7 @@ If you want to receive announcements about chosen papers, sign up to our
 | 06 Mar 2018 | &nbsp;             | &nbsp;
 | 13 Mar 2018 | &nbsp;             | &nbsp;
 | 20 Mar 2018 | &nbsp;             | &nbsp;
-| 27 Mar 2018 | &nbsp;             | &nbsp;
+| 27 Mar 2018 | Petr Bělohlávek    | TBA
 | 03 Apr 2018 | Petr Houška        | &nbsp;
 | 10 Apr 2018 | &nbsp;             | &nbsp;
 | 17 Apr 2018 | &nbsp;             | &nbsp;
