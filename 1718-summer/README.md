@@ -30,7 +30,7 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 |*01 May 2018*|*No DL Seminar*     |*Holiday – May Day*
 |*08 May 2018*|*No DL Seminar*     |*Holiday – Victory Day*
 | 15 May 2018 | &nbsp;             | &nbsp; | &nbsp;
-| 22 May 2018 | &nbsp;             | &nbsp; | &nbsp;
+| 22 May 2018 | Karel Ha           | TBA
 
 ## Papers for Inspiration
 
