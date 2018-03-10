@@ -30,7 +30,7 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 |*01 May 2018*|*No DL Seminar*     |*Holiday – May Day*
 |*08 May 2018*|*No DL Seminar*     |*Holiday – Victory Day*
 | 15 May 2018 | &nbsp;             | &nbsp; | &nbsp;
-| 22 May 2018 | Karel Ha           | TBA
+| 22 May 2018 | Karel Ha           | **[Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/pdf/1705.08439.pdf)** or **[Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)** or **[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748.pdf)** or **[Neural Architecture Search with Reinforcement Learning](https://arxiv.org/pdf/1611.01578.pdf)** (in the order of descending preference)
 
 ## Papers for Inspiration
 
