@@ -21,7 +21,7 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 | 27 Feb 2018 | Milan Straka       | Alexis Conneau, Guillaume Lample, Marc'Aurelio Ranzato, Ludovic Denoyer, Hervé Jégou: **[Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)**
 | 06 Mar 2018 | Martin Popel       | Michal Rolínek, Georg Martius: **[L4: Practical loss-based stepsize adaptation for deep learning](https://arxiv.org/abs/1802.05074v3)**
 | 13 Mar 2018 | Jan Hajič          | Matthias Dorfer, Jan Schlüter, Andreu Vall, Filip Korzeniowsky, Gerhard Widmer: **End-to-End Cross-Modality Retrieval with CCA Projection and Pairwise Ranking Loss** (accepted, not yet published - I can't publicly hang up the text, so if you want to read it before the seminar, let me know: hajicj@ufal.mff.cuni.cz)
-| 20 Mar 2018 | Tomas Soucek       | TBA
+| 20 Mar 2018 | Tomas Soucek       | Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le: **[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)**
 | 27 Mar 2018 | Petr Bělohlávek    | TBA
 | 03 Apr 2018 | Petr Houška        | &nbsp;
 | 10 Apr 2018 | &nbsp;             | &nbsp;
