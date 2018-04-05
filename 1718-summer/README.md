@@ -24,7 +24,7 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 | 20 Mar 2018 | Tomas Soucek       | Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le: **[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)**
 | 27 Mar 2018 | Petr Bělohlávek    | Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku: **[Image Transformer](https://arxiv.org/abs/1802.05751)**
 | 03 Apr 2018 | Petr Houška        | Jason Liang, Elliot Meyerson, Risto Miikkulainen: **[Evolutionary Architecture Search For Deep Multitask Networks](https://arxiv.org/abs/1803.03745)**
-| 10 Apr 2018 | &nbsp;             | &nbsp;
+| 10 Apr 2018 | Milan Straka       | Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le: **[Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)**<br>Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy: **[Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559)**
 | 17 Apr 2018 | Ronald Cardenas    | &nbsp;
 | 24 Apr 2018 | &nbsp;             | &nbsp;
 |*01 May 2018*|*No DL Seminar*     |*Holiday – May Day*
