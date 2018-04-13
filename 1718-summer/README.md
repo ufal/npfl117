@@ -25,7 +25,8 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 | 27 Mar 2018 | Petr Bělohlávek    | Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku: **[Image Transformer](https://arxiv.org/abs/1802.05751)**
 | 03 Apr 2018 | Petr Houška        | Jason Liang, Elliot Meyerson, Risto Miikkulainen: **[Evolutionary Architecture Search For Deep Multitask Networks](https://arxiv.org/abs/1803.03745)**
 | 10 Apr 2018 | Milan Straka       | Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le: **[Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)**<br>Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy: **[Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559)**
-| 17 Apr 2018 | Ronald Cardenas    | &nbsp;
+| 17 Apr 2018 | Ronald Cardenas    | Jiatao Gu, Hany Hassan, Jacob Devlin, Victor O.K. Li: **[Universal Neural Machine Translation for
+Extremely Low Resource Languages](https://arxiv.org/pdf/1802.05368.pdf)**
 | 24 Apr 2018 | &nbsp;             | &nbsp;
 |*01 May 2018*|*No DL Seminar*     |*Holiday – May Day*
 |*08 May 2018*|*No DL Seminar*     |*Holiday – Victory Day*
