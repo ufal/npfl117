@@ -30,7 +30,7 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 |*01 May 2018*|*No DL Seminar*     |*Holiday – May Day*
 |*08 May 2018*|*No DL Seminar*     |*Holiday – Victory Day*
 | 15 May 2018 | Vojtěch Čermák     | **[Adversarial Patch](https://arxiv.org/abs/1712.09665)** and **[Defense-GAN: Protecting classifiers against adversarial attacks using generative models](https://openreview.net/pdf?id=BkJ3ibb0-)**
-| 22 May 2018 | Karel Ha           | **[CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167.pdf)** or **[Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/pdf/1705.08439.pdf)** or **[Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)** or **[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/pdf/1710.03748.pdf)** or **[Neural Architecture Search with Reinforcement Learning](https://arxiv.org/pdf/1611.01578.pdf)** (in the order of descending preference)
+| 22 May 2018 | Karel Ha           | **[CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167.pdf)** (with the background in **[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)**)
 
 ## Papers for Inspiration
 
