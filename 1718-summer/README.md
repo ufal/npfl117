@@ -30,7 +30,7 @@ To add your name & paper to the table below, edit the [source code on GitHub](ht
 |*01 May 2018*|*No DL Seminar*     |*Holiday – May Day*
 |*08 May 2018*|*No DL Seminar*     |*Holiday – Victory Day*
 | 15 May 2018 | Vojtěch Čermák     | **[Adversarial Patch](https://arxiv.org/abs/1712.09665)** and **[Defense-GAN: Protecting classifiers against adversarial attacks using generative models](https://openreview.net/pdf?id=BkJ3ibb0-)**
-| 22 May 2018 | Karel Ha           | **[CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167.pdf)** (with the background in **[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)**)
+| 22 May 2018 | Karel Ha           | **[CapsuleGAN: Generative Adversarial Capsule Network](https://arxiv.org/pdf/1802.06167.pdf)** (with the background in **[Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf)**) - [slides](https://github.com/mathemage/CapsuleGAN-presentation)
 
 ## Papers for Inspiration
 
