@@ -66,7 +66,7 @@ To add your name and paper to the table below, edit the
 
 ## Tab: Possible Papers
 
-You can choose **any paper** you find interesting, but if you would like some inspiration, a list of interesting papers will *appear here soon*.
+You can choose **any paper** you find interesting, but if you would like some inspiration, you can look at the following list.
 
 #### Current Deep Learning Papers
 - https://deeplearn.org
