@@ -57,6 +57,8 @@ You can choose **any paper** you find interesting, but if you would like some in
 
 ## Tab: Related Courses
 
+### Related Coursed
+
 #### [Deep Learning](https://ufal.mff.cuni.cz/courses/npfl114)
 Course introducing deep neural networks, from the basics to the latest advances,
 focusing both on **theory** as well as on **practical aspects**.
@@ -74,6 +76,8 @@ you can see the discussed paper here:
 - [ÚFAL Reading Group 2014](https://ufal.mff.cuni.cz/courses/rg/2014)
 
 ## Tab: Archive
+
+### Archive
 
 #### [Deep Learning Seminar, Summer 2017/18](https://ufal.mff.cuni.cz/courses/npfl117/1718-summer)
 

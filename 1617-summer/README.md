@@ -144,6 +144,8 @@ inspiration, you can look at the following list.
 
 ## Tab: Related Courses
 
+### Related Coursed
+
 #### [Deep Learning](https://ufal.mff.cuni.cz/courses/npfl114)
 Course introducing deep neural networks, from the basics to the latest advances,
 focusing both on **theory** as well as on **practical aspects**.
