@@ -1,19 +1,44 @@
 # Deep Learning Seminar, Summer 2016/17
 
-In recent years, **deep neural networks** have been used to solve complex machine-learning problems and have achieved significant **state-of-the-art** results in **many** areas. The whole field of deep learning has been developing **rapidly**, with **new methods** and **techniques** emerging steadily.
+## Tab: Home
 
-The goal of the seminar is to follow the **newest advancements** in the deep learning field. The course takes form of a **reading group** – each lecture a paper is presented by one of the students. The paper is announced in advance, hence all participants can read it beforehand and can take part in the **discussion of the paper**
+In recent years, **deep neural networks** have been used to solve complex
+machine-learning problems and have achieved significant **state-of-the-art**
+results in **many** areas. The whole field of deep learning has been developing
+**rapidly**, with **new methods** and **techniques** emerging steadily.
 
-#### Related Courses
+The goal of the seminar is to follow the **newest advancements** in the deep
+learning field. The course takes form of a **reading group** – each lecture
+a paper is presented by one of the students. The paper is announced in advance,
+hence all participants can read it beforehand and can take part in the
+**discussion of the paper**.
 
-- [Deep Learning](//ufal.mff.cuni.cz/courses/npfl114) – Course introducing deep neural networks, from the basics to the latest advances, focusing both on **theory** as well as on **practical aspects**.
+If you want to receive announcements about chosen paper, sign up to our
+[mailing list ufal-rg@googlegroups.com](https://groups.google.com/forum/#!forum/ufal-rg).
 
-## Program
+### About
 
-*In summer semester 2016/17, the Deep Learning Seminar takes place on **Tuesday** at **12:20** in **S1**. We will first meet on Tuesday **Feb 28**.*
+SIS code: [NPFL117](https://is.cuni.cz/studium/eng/predmety/index.php?do=predmet&kod=NPFL117)<br>
+Semester: summer<br>
+E-credits: 3<br>
+Examination: 0/2 C<br>
+Guarantor: [Milan Straka](https://ufal.mff.cuni.cz/milan-straka)
 
-If you want to receive announcements about chosen papers, sign up to our
-[mailing list](https://groups.google.com/forum/#!forum/ufal-rg).
+### Timespace Coordinates
+
+The Deep Learning Seminar takes place on **Tuesday** at **12:20** in **S1**. We will first meet on Tuesday **Feb 28**.
+
+### Requirements
+
+To pass the course, you need to **present a research paper** and sufficiently
+attend the presentations.
+
+## Tab: Program
+
+If you want to receive announcements about chosen paper, sign up to our
+[mailing list ufal-rg@googlegroups.com](https://groups.google.com/forum/#!forum/ufal-rg).
+
+<div class="program"><style>.program td { vertical-align: middle !important}</style>
 
 | Date          | Who                | Paper(s)
 | ----          | ---                | -----
@@ -31,7 +56,9 @@ If you want to receive announcements about chosen papers, sign up to our
 | 16 May 2017   | Jindřich Helcl     | Noam Shazeer et al.: **[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538)**
 | 23 May 2017   | Peter Zborovský    | Luca Bertinetto et al.: **[Fully-Convolutional Siamese Networks for Object Tracking](https://arxiv.org/abs/1606.09549)**
 
-## Papers for Inspiration
+</div>
+
+## Tab: Possible Papers
 
 You can choose **any paper** you find interesting, but if you would like some
 inspiration, you can look at the following list.
@@ -114,3 +141,16 @@ inspiration, you can look at the following list.
 #### Speech Synthesis
 
 - Aaron van den Oord, Sander Dieleman, Heiga Zen, Karen Simonyan, Oriol Vinyals, Alex Graves, Nal Kalchbrenner, Andrew Senior, Koray Kavukcuoglu: **WaveNet: A Generative Model for Raw Audio**. https://arxiv.org/abs/1609.03499
+
+## Tab: Related Courses
+
+#### [Deep Learning](https://ufal.mff.cuni.cz/courses/npfl114)
+Course introducing deep neural networks, from the basics to the latest advances,
+focusing both on **theory** as well as on **practical aspects**.
+
+#### [ÚFAL Reading Group](https://ufal.mff.cuni.cz/courses/rg)
+Previously, Deep Learning Seminar was held unofficially as ÚFAL Reading Group,
+you can see the discussed paper here:
+- [ÚFAL Reading Group 2016](https://ufal.mff.cuni.cz/courses/rg/2016)
+- [ÚFAL Reading Group 2015](https://ufal.mff.cuni.cz/courses/rg/2015)
+- [ÚFAL Reading Group 2014](https://ufal.mff.cuni.cz/courses/rg/2014)
