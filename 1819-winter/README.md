@@ -46,8 +46,22 @@ To add your name and paper to the table below, edit the
   .program tr>td:nth-of-type(1), .program tr>td:nth-of-type(2) {white-space: nowrap}
 </style>
 
-| Date        | Who                | Paper(s)
-| ----        | ---                | -----
+| Date        | Who                   | Paper(s)
+| ----        | ---                   | --------
+| 09 Oct 2018 | Milan Straka          | *TBA*
+| 16 Oct 2018 |                       |
+| 23 Oct 2018 |                       |
+| 30 Oct 2018 |                       |
+|*06 Nov 2018*|*Dean's Sport Day*     |
+| 13 Nov 2018 |                       |
+| 20 Nov 2018 |                       |
+| 27 Nov 2018 |                       |
+| 04 Dec 2018 |                       |
+| 11 Dec 2018 |                       |
+| 18 Dec 2018 |                       |
+|*25 Dec 2018*|*Christmas Holiday*    |
+|*01 Jan 2019*|*New Year's Day*       |
+| 08 Jan 2019 |                       |
 
 </div>
 
