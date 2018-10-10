@@ -55,7 +55,7 @@ To add your name and paper to the table below, edit the
 |*06 Nov 2018*|*Dean's Sport Day*     |
 | 13 Nov 2018 |                       |
 | 20 Nov 2018 |                       |
-| 27 Nov 2018 |                       |
+| 27 Nov 2018 | Ondřej Měkota         | Thomas SCHLEGL, Philipp SEEBÖCK, Sebastian M. WALDSTEIN, Ursula SCHMIDT-ERFURTH and Georg LANGS: **[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](http://arxiv.org/abs/1703.05921)**
 | 04 Dec 2018 |                       |
 | 11 Dec 2018 |                       |
 | 18 Dec 2018 |                       |
