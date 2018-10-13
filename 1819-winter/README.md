@@ -157,7 +157,12 @@ You can choose **any paper** you find interesting, but if you would like some in
 
 #### Adversarial Text
 
-- Robin Jia, Percy Liang: **[Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)**
+- ~~Robin Jia, Percy Liang: **[Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)**~~
+- Zhengli Zhao, Dheeru Dua, Sameer Singh: **[Generating Natural Adversarial Examples](https://arxiv.org/abs/1710.11342)**
+- Yonatan Belinkov, Yonatan Bisk: **[Synthetic and Natural Noise Both Break Neural Machine Translation](https://arxiv.org/abs/1711.02173)**
+- Javid Ebrahimi, Anyi Rao, Daniel Lowd, Dejing Dou: **[HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751)**
+- Ji Gao, Jack Lanchantin, Mary Lou Soffa, Yanjun Qi: **[Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers](https://arxiv.org/abs/1801.04354)**
+- Mohit Iyyer, John Wieting, Kevin Gimpel, Luke Zettlemoyer: **[Adversarial Example Generation with Syntactically Controlled Paraphrase Networks](https://arxiv.org/abs/1804.06059)**
 
 #### Adversarial Speech
 
