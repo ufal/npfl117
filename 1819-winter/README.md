@@ -56,7 +56,7 @@ To add your name and paper to the table below, edit the
 | 13 Nov 2018 |                       |
 | 20 Nov 2018 |                       |
 | 27 Nov 2018 | Ondřej Měkota         | Thomas SCHLEGL, Philipp SEEBÖCK, Sebastian M. WALDSTEIN, Ursula SCHMIDT-ERFURTH and Georg LANGS: **[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](http://arxiv.org/abs/1703.05921)**
-| 04 Dec 2018 |                       |
+| 04 Dec 2018 | Martin Víta           | Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)**<br>Qianlong Du, Chengqing Zong, Keh-Yih Su: **[Adopting the Word-Pair-Dependency-Triplets with Individual Comparison for Natural Language Inference](http://www.aclweb.org/anthology/C18-1035)**
 | 11 Dec 2018 |                       |
 | 18 Dec 2018 |                       |
 |*25 Dec 2018*|*Christmas Holiday*    |
