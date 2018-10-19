@@ -56,7 +56,7 @@ To add your name and paper to the table below, edit the
 | 13 Nov 2018 |                       |
 | 20 Nov 2018 |                       |
 | 27 Nov 2018 | Ondřej Měkota         | Thomas SCHLEGL, Philipp SEEBÖCK, Sebastian M. WALDSTEIN, Ursula SCHMIDT-ERFURTH and Georg LANGS: **[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](http://arxiv.org/abs/1703.05921)**
-| 04 Dec 2018 |                       |
+| 04 Dec 2018 | Karry Hořeňovská      | Robin Jia, Percy Liang: **[Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)**
 | 11 Dec 2018 |                       |
 | 18 Dec 2018 |                       |
 |*25 Dec 2018*|*Christmas Holiday*    |
