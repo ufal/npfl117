@@ -53,7 +53,7 @@ To add your name and paper to the table below, edit the
 | 23 Oct 2018 | Marek Černý           | Nikolaus Mayer, Eddy Ilg, Philip Häusser, Philipp Fischer, Daniel Cremers, Alexey Dosovitskiy, Thomas Brox: **[A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation](https://arxiv.org/pdf/1512.02134.pdf)**<br>Clément Godard, Oisin Mac Aodha, Gabriel J. Brostow: **[Unsupervised Monocular Depth Estimation with Left-Right Consistency](https://arxiv.org/pdf/1609.03677)**<br>Tinghui Zhou, Matthew Brown, Noah Snavely, David G. Lowe:**[Unsupervised Learning of Depth and Ego-Motion from Video](https://arxiv.org/pdf/1704.07813)**<br>Reza Mahjourian, Martin Wicke, Anelia Angelova: **[Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints](https://arxiv.org/pdf/1802.05522)**<br>Andrea Pilzer, Dan Xu, Mihai Marian Puscas, Elisa Ricci, Nicu Sebe: **[Unsupervised Adversarial Depth Estimation using Cycled Generative Networks](https://arxiv.org/pdf/1807.10915.pdf)**<br>Sudeep Pillai, Rares Ambrus, Adrien Gaidon: **[SuperDepth: Self-Supervised, Super-Resolved Monocular Depth Estimation](https://arxiv.org/pdf/1810.01849.pdf)**<br>Richard Chen, Faisal Mahmood, Alan Yuille, Nicholas J. Durr: **[Rethinking Monocular Depth Estimation with Adversarial Training](https://arxiv.org/pdf/1808.07528v2.pdf)**
 | 30 Oct 2018 |                       |
 |*06 Nov 2018*|*Dean's Sport Day*     |
-| 13 Nov 2018 |                       |
+| 13 Nov 2018 | Petr Laitoch          | Timothy Dozat, Christopher D. Manning: **[Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734)**<br>Michael Ringgaard, Rahul Gupta, Fernando C. N. Pereira: **[SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032)**
 | 20 Nov 2018 |                       |
 | 27 Nov 2018 | Ondřej Měkota         | Thomas SCHLEGL, Philipp SEEBÖCK, Sebastian M. WALDSTEIN, Ursula SCHMIDT-ERFURTH and Georg LANGS: **[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](http://arxiv.org/abs/1703.05921)**
 | 04 Dec 2018 | Martin Víta           | Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes: **[Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364)**<br>Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)**<br>Qianlong Du, Chengqing Zong, Keh-Yih Su: **[Adopting the Word-Pair-Dependency-Triplets with Individual Comparison for Natural Language Inference](http://www.aclweb.org/anthology/C18-1035)**
@@ -75,8 +75,8 @@ You can choose **any paper** you find interesting, but if you would like some in
 
 #### Parsing
 
-- Timothy Dozat, Christopher D. Manning: **[Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734)**
-- Michael Ringgaard, Rahul Gupta, Fernando C. N. Pereira: **[SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032)**
+- ~~Timothy Dozat, Christopher D. Manning: **[Deep Biaffine Attention for Neural Dependency Parsing](https://arxiv.org/abs/1611.01734)**~~
+- ~~Michael Ringgaard, Rahul Gupta, Fernando C. N. Pereira: **[SLING: A framework for frame semantic parsing](https://arxiv.org/abs/1710.07032)**~~
 
 #### Neural Machine Translation
 
