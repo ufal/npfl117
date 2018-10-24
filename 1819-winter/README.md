@@ -57,7 +57,7 @@ To add your name and paper to the table below, edit the
 | 20 Nov 2018 |                       |
 | 27 Nov 2018 | Ondřej Měkota         | Thomas SCHLEGL, Philipp SEEBÖCK, Sebastian M. WALDSTEIN, Ursula SCHMIDT-ERFURTH and Georg LANGS: **[Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](http://arxiv.org/abs/1703.05921)**
 | 04 Dec 2018 | Martin Víta           | Alexis Conneau, Douwe Kiela, Holger Schwenk, Loic Barrault, Antoine Bordes: **[Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364)**<br>Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)**<br>Qianlong Du, Chengqing Zong, Keh-Yih Su: **[Adopting the Word-Pair-Dependency-Triplets with Individual Comparison for Natural Language Inference](http://www.aclweb.org/anthology/C18-1035)**
-| 11 Dec 2018 |                       |
+| 11 Dec 2018 | Miroslav Krabec       | Survey of 3D classification methods
 | 18 Dec 2018 | Karry Hořeňovská      | Robin Jia, Percy Liang: **[Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)**
 |*25 Dec 2018*|*Christmas Holiday*    |
 |*01 Jan 2019*|*New Year's Day*       |
