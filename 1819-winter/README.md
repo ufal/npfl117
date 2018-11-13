@@ -61,7 +61,7 @@ To add your name and paper to the table below, edit the
 | 18 Dec 2018 | Karry Hořeňovská      | Robin Jia, Percy Liang: **[Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)**
 |*25 Dec 2018*|*Christmas Holiday*    |
 |*01 Jan 2019*|*New Year's Day*       |
-| 08 Jan 2019 |                       |
+| 08 Jan 2019 | Petr Houška           |
 
 </div>
 
