@@ -61,8 +61,7 @@ To add your name and paper to the table below, edit the
 | 18 Dec 2018 | Karry Hořeňovská      | Robin Jia, Percy Liang: **[Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/abs/1707.07328)**
 |*25 Dec 2018*|*Christmas Holiday*    |
 |*01 Jan 2019*|*New Year's Day*       |
-| 08 Jan 2019 | Petr Houška           | Jiajun Wu, Yifan Wang, Tianfan Xue, Xingyuan Sun, William T Freeman, Joshua B Tenenbaum: **[MarrNet: 3D Shape Reconstruction via 2.5D Sketches](https://arxiv.org/abs/1711.03129)** Xiuming Zhang, Zhoutong Zhang, Chengkai Zhang, Joshua B. Tenenbaum, William T. Freeman, Jiajun Wu: **[Learning to Reconstruct Shapes from Unseen Classes
-](https://arxiv.org/abs/1812.11166)**
+| 08 Jan 2019 | Petr Houška           | Jiajun Wu, Yifan Wang, Tianfan Xue, Xingyuan Sun, William T Freeman, Joshua B Tenenbaum: **[MarrNet: 3D Shape Reconstruction via 2.5D Sketches](https://arxiv.org/abs/1711.03129)** Xiuming Zhang, Zhoutong Zhang, Chengkai Zhang, Joshua B. Tenenbaum, William T. Freeman, Jiajun Wu: **[Learning to Reconstruct Shapes from Unseen Classes](https://arxiv.org/abs/1812.11166)**
 
 
 </div>
