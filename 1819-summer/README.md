@@ -26,7 +26,7 @@ Guarantor: [Milan Straka](https://ufal.mff.cuni.cz/milan-straka)
 
 ### Timespace Coordinates
 
-The Deep Learning Seminar takes place on **Tuesday** at **10:40** in **S8**. We will first meet on Tuesday **Feb 26**.
+The Deep Learning Seminar takes place on **Tuesday** at **10:40** in **S8**. We will first meet on Tuesday **Mar 05**.
 
 ### Requirements
 
