@@ -41,7 +41,25 @@ If you want to receive announcements about chosen paper, sign up to our
 To add your name to a paper the table below, edit the
 [source code on GitHub](https://github.com/ufal/npfl117/edit/master/1819-summer/README.md) and send a PR.
 
-**_Program will appear here soon._**
+<div class="program"><style>
+  .program td { vertical-align: middle !important}
+  .program tr>td:nth-of-type(1), .program tr>td:nth-of-type(2) {white-space: nowrap}
+</style>
+
+| Date        | Who                | Topic | Paper(s)
+| ----        | ---                | ----- | --------
+| 05 Mar 2019 | Milan Straka       | Optimization | Noam Shazeer, Mitchell Stern: **Adafactor: Adaptive Learning Rates with Sublinear Memory Cost**.  https://arxiv.org/abs/1804.04235<br>Ilya Loshchilov, Frank Hutter: **Decoupled Weight Decay Regularization**.  https://arxiv.org/abs/1711.05101<br>Sashank J. Reddi, Satyen Kale, Sanjiv Kumar: **On the Convergence of Adam and Beyond** https://openreview.net/forum?id=ryQu7f-RZ<br>Liangchen Luo, Yuanhao Xiong, Yan Liu, Xu Sun: **Adaptive Gradient Methods with Dynamic Bound of Learning Rate** https://openreview.net/forum?id=Bkg3g2R9FX |
+| 12 Mar 2019 |                    |              |
+| 19 Mar 2019 |                    |              |
+| 26 Mar 2019 |                    |              |
+| 02 Apr 2019 |                    |              |
+| 09 Apr 2019 |                    |              |
+| 16 Apr 2019 |                    |              |
+| 23 Apr 2019 |                    |              |
+| 30 Apr 2019 |                    |              |
+| 07 May 2019 |                    |              |
+|*14 May 2019*|*No DL Seminar*     |              | *Rector's Day*
+| 21 May 2019 |                    |              |
 
 ## Tab: Related Courses
 
