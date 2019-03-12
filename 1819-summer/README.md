@@ -52,7 +52,7 @@ To add your name to a paper the table below, edit the
 |*12 Mar 2019*|*No DL Seminar*     |              |
 | 19 Mar 2019 |                    |              |
 | 26 Mar 2019 |                    |              |
-| 02 Apr 2019 |                    |              |
+| 02 Apr 2019 | Martin Víta        | NLP          |
 | 09 Apr 2019 |                    |              |
 | 16 Apr 2019 |                    |              |
 | 23 Apr 2019 |                    |              |
