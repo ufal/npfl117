@@ -53,7 +53,7 @@ To add your name to a paper the table below, edit the
 | 19 Mar 2019 | Milan Straka       | Optimization | James Martens, Roger Grosse: **[Optimizing Neural Networks with Kronecker-factored Approximate Curvature](https://arxiv.org/abs/1503.05671)**<br>Roger Grosse, James Martens: **[A Kronecker-factored approximate Fisher matrix for convolution layers](https://arxiv.org/abs/1602.01407)**<br>Jimmy Ba, Roger Grosse, James Martens: **[Distributed Second-Order Optimization using Kronecker-Factored Approximations](https://jimmylba.github.io/papers/nsync.pdf)**<br>James Martens, Jimmy Ba: **[Kronecker-Factored Curvature Approximations for Recurrent Neural Networks](https://openreview.net/pdf?id=HyMTkQZAb)**<br>Thomas George, César Laurent, Xavier Bouthillier, Nicolas Ballas, Pascal Vincent: **[Fast Approximate Natural Gradient Descent in a Kronecker-factored Eigenbasis](https://arxiv.org/abs/1806.03884)**
 | 26 Mar 2019 | Milan Straka       | AutoML       |Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean: **[Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)**<br>Hanxiao Liu, Karen Simonyan, Yiming Yang: **[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)**<br>Han Cai, Ligeng Zhu, Song Han: **[ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332)**<br>David R. So, Chen Liang, Quoc V. Le: **[The Evolved Transformer](https://arxiv.org/abs/1901.11117)**<br>Hao-Tien Lewis Chiang, Aleksandra Faust, Marek Fiser, Anthony Francis: **[Learning Navigation Behaviors End-to-End with AutoRL](https://arxiv.org/abs/1809.10124)**
 | 02 Apr 2019 | Martin Víta        | NLP          |
-| 09 Apr 2019 |                    |              |
+| 09 Apr 2019 | Tomas Soucek       | GANs         |Zhiming Zhou, Yuxuan Song, Lantao Yu, Hongwei Wang, Jiadong Liang, Weinan Zhang, Zhihua Zhang, Yong Yu: **[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](https://arxiv.org/abs/1807.00751)**<br>Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida: **[Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)**
 | 16 Apr 2019 |                    |              |
 | 23 Apr 2019 |                    |              |
 | 30 Apr 2019 |                    |              |
@@ -81,11 +81,6 @@ The topics are in arbitrary order, you can choose any free time slot.
 - _Focal Loss and End-to-end text spotting [reserved]_
   - Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár: **Focal Loss for Dense Object Detection**.  https://arxiv.org/abs/1708.02002
   - Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan: **FOTS: Fast Oriented Text Spotting with a Unified Network**.  https://arxiv.org/abs/1801.01671
-
-- Lipschitz constants and spectral normalization for GANs
-  - Zhiming Zhou, Yuxuan Song, Lantao Yu, Hongwei Wang, Jiadong Liang, Weinan
-    Zhang, Zhihua Zhang, Yong Yu: **[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](https://arxiv.org/abs/1807.00751)**
-  - Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida: **[Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)**
 
 
 ## Tab: Related Courses
