@@ -56,7 +56,7 @@ To add your name to a paper the table below, edit the
 | 09 Apr 2019 | Tomas Soucek       | GANs         |Zhiming Zhou, Yuxuan Song, Lantao Yu, Hongwei Wang, Jiadong Liang, Weinan Zhang, Zhihua Zhang, Yong Yu: **[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](https://arxiv.org/abs/1807.00751)**<br>Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida: **[Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957)**
 | 16 Apr 2019 | Jakub Arnold       | Glow         | Laurent Dinh, David Krueger, Yoshua Bengio: **[NICE: Non-linear Independent Components Estimation](https://arxiv.org/abs/1410.8516)**<br>Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio: **[Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)**<br>Diederik P. Kingma, Prafulla Dhariwal: **[Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)**
 | 23 Apr 2019 |                    |              |
-| 30 Apr 2019 |                    |              |
+| 30 Apr 2019 | Štěpán Hojdar      | Computer vision | Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár: **Focal Loss for Dense Object Detection**.  https://arxiv.org/abs/1708.02002<br>Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan: **FOTS: Fast Oriented Text Spotting with a Unified Network**.  https://arxiv.org/abs/1801.01671
 | 07 May 2019 |                    |              |
 |*14 May 2019*|*No DL Seminar*     |              | *Rector's Day*
 | 21 May 2019 |                    |              |
