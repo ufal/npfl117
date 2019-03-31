@@ -78,10 +78,6 @@ The topics are in arbitrary order, you can choose any free time slot.
 - Large batch training
   - Sam McCandlish, Jared Kaplan, Dario Amodei, OpenAI Dota Team: **An Empirical Model of Large-Batch Training**.  https://arxiv.org/abs/1812.06162
 
-- _Focal Loss and End-to-end text spotting [reserved]_
-  - Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár: **Focal Loss for Dense Object Detection**.  https://arxiv.org/abs/1708.02002
-  - Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan: **FOTS: Fast Oriented Text Spotting with a Unified Network**.  https://arxiv.org/abs/1801.01671
-
 
 ## Tab: Related Courses
 
