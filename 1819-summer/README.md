@@ -43,7 +43,7 @@ To add your name to a paper the table below, edit the
 
 <div class="program"><style>
   .program td { vertical-align: middle !important}
-  .program tr>td:nth-of-type(1), .program tr>td:nth-of-type(2) {white-space: nowrap}
+  .program tr>td:nth-of-type(1), .program tr>td:nth-of-type(2), .program tr>td:nth-of-type(3) {white-space: nowrap}
 </style>
 
 | Date        | Who                | Topic | Paper(s)
