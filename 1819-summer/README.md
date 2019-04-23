@@ -58,15 +58,13 @@ To add your name to a paper the table below, edit the
 | 23 Apr 2019 | Tomáš Gavenčiak    | Value learning | Joel Lehman et al.: **[The Surprising Creativity of Digital Evolution](https://arxiv.org/abs/1803.03453)**<br>P. Abbeel, A. Y. Ng: **[Apprenticeship learning via inverse reinforcement learning](http://people.eecs.berkeley.edu/~russell/classes/cs294/s11/readings/Abbeel+Ng:2004.pdf)**<br>Paul Christiano et al.: **[Deep reinforcement learning from human preferences](https://arxiv.org/abs/1706.03741)**<br>Possibly other IRLs ([MaxEnt](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), [Bayesian](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-416.pdf)), notes on Cooperative IRL, Corrupt Reward MDP, Inv. Game Theory.
 | 30 Apr 2019 | Štěpán Hojdar      | Computer vision | Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár: **[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)**<br>Xuebo Liu, Ding Liang, Shi Yan, Dagui Chen, Yu Qiao, Junjie Yan: **[FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671)**
 | 07 May 2019 | Petra Doubravová   | RL as planning  | Danijar Hafner, Timothy Lillicrap, Ian Fischer, Ruben Villegas, David Ha, Honglak Lee, James Davidson: **[Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551)** https://planetrl.github.io/
+| 07 May 2019 | Felipe Vianna      | Delayed reward decomposition | Jose A. Arjona-Medina, Michael Gillhofer, Michael Widrich, Thomas Unterthiner, Johannes Brandstetter, Sepp Hochreiter: **[RUDDER: Return Decomposition for Delayed Rewards](https://arxiv.org/abs/1806.07857)**
 |*14 May 2019*|*No DL Seminar*     |              | *Rector's Day*
 | 21 May 2019 | Surya Prakash      | AutoRL       |  Hao-Tien Lewis Chiang, Aleksandra Faust, Marek Fiser, Anthony Francis: **[Learning Navigation Behaviors End-to-End with AutoRL](https://arxiv.org/abs/1809.10124)**<br>Anthony Francis, Aleksandra Faust, Hao-Tien Lewis Chiang, Jasmine Hsu, J. Chase Kew, Marek Fiser, Tsang-Wei Edward Lee: **[Long-Range Indoor Navigation with PRM-RL](https://arxiv.org/abs/1902.09458)**
 
 ### Preliminary Plan
 
 The topics are in arbitrary order, you can choose any free time slot.
-
-- Delayed reward decomposition
-  - Jose A. Arjona-Medina, Michael Gillhofer, Michael Widrich, Thomas Unterthiner, Johannes Brandstetter, Sepp Hochreiter: **RUDDER: Return Decomposition for Delayed Rewards**.  https://arxiv.org/abs/1806.07857
 
 - Large batch training
   - Sam McCandlish, Jared Kaplan, Dario Amodei, OpenAI Dota Team: **An Empirical Model of Large-Batch Training**.  https://arxiv.org/abs/1812.06162
