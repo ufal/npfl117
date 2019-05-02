@@ -62,12 +62,44 @@ To add your name to a paper the table below, edit the
 |*14 May 2019*|*No DL Seminar*     |              | *Rector's Day*
 | 21 May 2019 | Surya Prakash      | AutoRL       |  Hao-Tien Lewis Chiang, Aleksandra Faust, Marek Fiser, Anthony Francis: **[Learning Navigation Behaviors End-to-End with AutoRL](https://arxiv.org/abs/1809.10124)**<br>Anthony Francis, Aleksandra Faust, Hao-Tien Lewis Chiang, Jasmine Hsu, J. Chase Kew, Marek Fiser, Tsang-Wei Edward Lee: **[Long-Range Indoor Navigation with PRM-RL](https://arxiv.org/abs/1902.09458)**
 
-### Preliminary Plan
+</div>
 
-The topics are in arbitrary order, you can choose any free time slot.
+### AI Safety and Inverse Reinforcement Learning Materials
 
-- Large batch training
-  - Sam McCandlish, Jared Kaplan, Dario Amodei, OpenAI Dota Team: **An Empirical Model of Large-Batch Training**.  https://arxiv.org/abs/1812.06162
+Even if the talk by Tomáš Gavenčiak was cancelled, you can at least study on the
+following materials he kindly sent us:
+
+#### Intro and motivation:
+
+- [General intro video](https://www.youtube.com/watch?v=WvmeTaFc_Qw) (5m) from
+  Stuart Russel (author of [AIMA](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach))
+- A nice video example of reward hacking in RL (OpenAI [blog](https://openai.com/blog/faulty-reward-functions/))
+- A [paper](https://arxiv.org/abs/1803.03453) with more value mis-specification examples (PDF with some pictures).
+
+#### Why is it hard, why are the hard parts important:
+
+- Really nice [talk](https://www.youtube.com/watch?v=EUjc1WuyPT8) (90m) from
+  Yukdowsky on AI alignment problem, with concrete math and simple models. One
+  part ([here](https://youtu.be/EUjc1WuyPT8?t=1267) in the video) deals with
+  counter-/examples to even simple problem specification (e.g. let's give the AI
+  a off-switch and make it not want to interfere with it).
+
+#### Inverse reinforcement learning and some variants:
+
+- Nice short [video introduction](https://www.youtube.com/watch?v=h7uGyBcIeII) with basic
+  SGD-based algorithm (3m).
+
+- Complete [lecture](https://www.youtube.com/watch?v=JbNeLiNnvII) from CVPR18,
+  both overview and maths. Has parts on Maximum Entropy IRL
+  ([here](https://youtu.be/JbNeLiNnvII?t=3706)) and also GAIL and other advanced
+  techniques later.
+
+#### Example of success with simpler model:
+
+- Learning from human preferences (OpenAI
+  [blog](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
+  with videos): teaching a "Hopper" figure to do a backflip, learning the value
+  function only by showing humans 2 short videos to compare (<1000 times).
 
 
 ## Tab: Related Courses
