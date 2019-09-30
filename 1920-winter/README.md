@@ -79,7 +79,7 @@ Course introducing reinforcement learning, from basic tabular methods to
 involvement of deep neural networks, focusing both on **theory** as well as on
 **practical aspects**.
 
-#### [Machine Learning 101](https://ufal.mff.cuni.cz/courses/npfl129)
+#### [Machine Learning for Greenhorns](https://ufal.mff.cuni.cz/courses/npfl129)
 Introductory course to machine learning, focusing both on **theoretical foundations**
 as well as on **practical applications** in **Python**.
 
