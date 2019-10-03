@@ -117,6 +117,10 @@ The papers are grouped, each group is expected to be presented on one seminar.
   - Michael R. Zhang, James Lucas, Geoffrey Hinton, Jimmy Ba: **[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/abs/1907.08610)**
   - Liyuan Liu, Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Jiawei Han: **[On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)**
 
+#### Adversarial Examples
+- &nbsp;
+  - Xiaoyong Yuan, Pan He, Qile Zhu, Xiaolin Li: **[Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/abs/1712.07107)**
+  - Jiliang Zhang, Chen Li: **[Adversarial Examples: Opportunities and Challenges](https://arxiv.org/abs/1809.04790)**
 
 ## Tab: Related Courses
 
