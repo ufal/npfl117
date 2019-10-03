@@ -48,7 +48,7 @@ To add your name to a paper the table below, edit the
 
 | Date        | Who                | Topic | Paper(s)
 | ----        | ---                | ----- | --------
-| 07 Oct 2019 |                    |       |
+| 07 Oct 2019 | Milan Straka       | Transformer | Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin: **[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**<br> Peter Shaw, Jakob Uszkoreit, Ashish Vaswani: **[Self-Attention with Relative Position Representations](https://arxiv.org/abs/1803.02155)**<br> Cheng-Zhi Anna Huang, Ashish Vaswani, Jakob Uszkoreit, Noam Shazeer, Ian Simon, Curtis Hawthorne, Andrew M. Dai, Matthew D. Hoffman, Monica Dinculescu, Douglas Eck: **[Music Transformer](https://arxiv.org/abs/1809.04281)**<br> Zihang Dai, Zhilin Yang, Yiming Yang, Jaime Carbonell, Quoc V. Le, Ruslan Salakhutdinov: **[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)** |
 | 14 Oct 2019 |                    |       |
 | 21 Oct 2019 |                    |       |
 | 28 Oct 2019 |*No DL seminar*     |       |*Czech Independence Day*
@@ -64,6 +64,58 @@ To add your name to a paper the table below, edit the
 | 06 Jan 2020 |                    |       |
 
 </div>
+
+## Tab: Papers
+
+You can choose **any paper** you find interesting, but if you would like some inspiration, you can look at the following list.
+The papers are grouped, each group is expected to be presented on one seminar.
+
+#### Natural Language Processing
+
+- &nbsp;
+  - Tomas Mikolov, Edouard Grave, Piotr Bojanowski, Christian Puhrsch, Armand Joulin: **[Advances in Pre-Training Distributed Word Representations](https://arxiv.org/abs/1712.09405)**
+  - Edouard Grave, Piotr Bojanowski, Prakhar Gupta, Armand Joulin, Tomas Mikolov: **[Learning Word Vectors for 157 Languages](https://arxiv.org/abs/1802.06893)**
+  - Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer: **[Deep contextualized word representations](https://arxiv.org/abs/1802.05365)**
+  - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)**
+
+
+#### Generative Modeling
+
+- &nbsp;
+  - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio: **[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)**
+  - Martin Arjovsky, Soumith Chintala, Léon Bottou: **[Wasserstein GAN](https://arxiv.org/abs/1701.07875)**
+
+- &nbsp;
+  - Tero Karras, Timo Aila, Samuli Laine, Jaakko Lehtinen: **[Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)**
+  - Andrew Brock, Jeff Donahue, Karen Simonyan: **[Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)**
+  - Tero Karras, Samuli Laine, Timo Aila: **[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)**
+
+- &nbsp;
+  - Laurent Dinh, David Krueger, Yoshua Bengio: **[NICE: Non-linear Independent Components Estimation](https://arxiv.org/abs/1410.8516)**
+  - Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio: **[Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)**
+  - Diederik P. Kingma, Prafulla Dhariwal: **[Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)**
+
+#### Neural Architecture Search (AutoML)
+
+- &nbsp;
+  - Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le: **[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012)**
+  - Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le: **[Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/abs/1802.01548)**
+  - Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy: **[Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559)**
+
+- &nbsp;
+  - Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean: **[Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)**
+  - Hanxiao Liu, Karen Simonyan, Yiming Yang: **[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)**
+
+#### Networks with External Memory
+
+- Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**
+
+- Mark Collier, Joeran Beel: **[Memory-Augmented Neural Networks for Machine Translation](https://arxiv.org/abs/1909.08314)**
+
+#### Optimization
+- &nbsp;
+  - Michael R. Zhang, James Lucas, Geoffrey Hinton, Jimmy Ba: **[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/abs/1907.08610)**
+  - Liyuan Liu, Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Jiawei Han: **[On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)**
 
 
 ## Tab: Related Courses
