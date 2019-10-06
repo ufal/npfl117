@@ -73,10 +73,10 @@ The papers are grouped, each group is expected to be presented on one seminar.
 #### Natural Language Processing
 
 - &nbsp;
-  - Tomas Mikolov, Edouard Grave, Piotr Bojanowski, Christian Puhrsch, Armand Joulin: **[Advances in Pre-Training Distributed Word Representations](https://arxiv.org/abs/1712.09405)**
-  - Edouard Grave, Piotr Bojanowski, Prakhar Gupta, Armand Joulin, Tomas Mikolov: **[Learning Word Vectors for 157 Languages](https://arxiv.org/abs/1802.06893)**
-  - Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer: **[Deep contextualized word representations](https://arxiv.org/abs/1802.05365)**
-  - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)**
+  - ~~Tomas Mikolov, Edouard Grave, Piotr Bojanowski, Christian Puhrsch, Armand Joulin: **[Advances in Pre-Training Distributed Word Representations](https://arxiv.org/abs/1712.09405)**~~
+  - ~~Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer: **[Deep contextualized word representations](https://arxiv.org/abs/1802.05365)**~~
+  - ~~Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova: **[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)**~~
+  - ~~Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le. **[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)**~~
 
 
 #### Generative Modeling
