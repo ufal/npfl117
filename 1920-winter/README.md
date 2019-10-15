@@ -52,7 +52,7 @@ To add your name to a paper the table below, edit the
 | 14 Oct 2019 | Ondřej Měkota      | Transformer | Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. **[BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)**<br> Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le. **[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)**
 | 21 Oct 2019 |                    |       |
 | 28 Oct 2019 |*No DL seminar*     |       |*Czech Independence Day*
-| 04 Nov 2019 |                    |       |
+| 04 Nov 2019 | Zdeněk Kasner | Neural LMs  | Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever. **[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)** ([OpenAI blog post](https://openai.com/blog/better-language-models/))<br> Subramanian, Sandeep, Raymond Li, Jonathan Pilault, and Christopher Pal. **[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/pdf/1909.03186.pdf)** |
 | 11 Nov 2019 |                    |       |
 | 18 Nov 2019 |                    |       |
 | 25 Nov 2019 |                    |       |
