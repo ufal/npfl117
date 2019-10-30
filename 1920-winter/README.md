@@ -53,7 +53,8 @@ To add your name to a paper the table below, edit the
 | 21 Oct 2019 | Tomas Soucek       | 3D Pointclouds | Charles R. Qi, Li Yi, Hao Su, Leonidas J. Guibas: **[PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413)**<br> Christopher Choy, JunYoung Gwak, Silvio Savarese: **[4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks](https://arxiv.org/abs/1904.08755)**<br> Christopher Choy, Jaesik Park, Vladlen Koltun: **[Fully Convolutional Geometric Features](https://node1.chrischoy.org/data/publications/fcgf/fcgf.pdf)**
 | 28 Oct 2019 |*No DL seminar*     |       |*Czech Independence Day*
 | 04 Nov 2019 | Zdeněk Kasner | Neural LMs  | Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever. **[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)** ([OpenAI blog post](https://openai.com/blog/better-language-models/))<br> Subramanian, Sandeep, Raymond Li, Jonathan Pilault, and Christopher Pal. **[On Extractive and Abstractive Neural Document Summarization with Transformer Language Models](https://arxiv.org/pdf/1909.03186.pdf)** |
-| 11 Nov 2019 |                    |       |
+| 11 Nov 2019 - 45 min | Viktor Vašátko     | Adversarial Examples | Xiaoyong Yuan, Pan He, Qile Zhu, Xiaolin Li: **[Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/abs/1712.07107)** |
+| 11 Nov 2019 - 45 min |                    |       |
 | 18 Nov 2019 |                    |       |
 | 25 Nov 2019 |                    |       |
 | 02 Dec 2019 |                    |       |
