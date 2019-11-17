@@ -56,7 +56,7 @@ To add your name to a paper the table below, edit the
 | 11 Nov 2019 - 45 min | Viktor Vašátko     | Adversarial Examples | Xiaoyong Yuan, Pan He, Qile Zhu, Xiaolin Li: **[Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/abs/1712.07107)** |
 | 11 Nov 2019 - 45 min | Jan Vainer         | Normalizing flows, Real NVP, Glow    | Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio: **[Density estimation using Real NVP](https://arxiv.org/abs/1605.08803)**<br>Diederik P. Kingma, Prafulla Dhariwal: **[Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039)**
 | 18 Nov 2019 | Memduh Gokirmak<br> Abhishek Agrawal| NN Interpretation        | Hewitt, John, and Christopher D. Manning. **[A Structural Probe for Finding Syntax in Word Representations](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)** <br> Ning Mei, Usman Sheikh, Roberto Santana and David Soto **[How the brain encodes meaning: Comparing word embedding and computer vision models to predict fMRI data during visual word recognition](https://ccneuro.org/2019/proceedings/0000863.pdf)**
-| 25 Nov 2019 |                    |       |
+| 25 Nov 2019 | Erdi Düzel   | Image Segmentation  |Xiaomei Zhao, Yihong Wu, Guidong Song, Zhenye Li, Yazhuo Zhang, Yong Fan **[A deep learning model integrating FCNNs and CRFs for brain tumor segmentation](https://www.sciencedirect.com/science/article/pii/S136184151730141X?via%3Dihub )
 | 02 Dec 2019 |                    |       |
 | 09 Dec 2019 |                    |       |
 | 16 Dec 2019 |                    |       |
