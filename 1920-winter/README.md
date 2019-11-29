@@ -58,7 +58,7 @@ To add your name to a paper the table below, edit the
 | 18 Nov 2019 | Memduh Gokirmak<br> Abhishek Agrawal| NN Interpretation        | Hewitt, John, and Christopher D. Manning. **[A Structural Probe for Finding Syntax in Word Representations](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)** <br> Ning Mei, Usman Sheikh, Roberto Santana and David Soto **[How the brain encodes meaning: Comparing word embedding and computer vision models to predict fMRI data during visual word recognition](https://ccneuro.org/2019/proceedings/0000863.pdf)**
 | 25 Nov 2019 | Erdi Düzel   | Image Segmentation  |Xiaomei Zhao, Yihong Wu, Guidong Song, Zhenye Li, Yazhuo Zhang, Yong Fan **[A deep learning model integrating FCNNs and CRFs for brain tumor segmentation](https://www.sciencedirect.com/science/article/pii/S136184151730141X)**
 | 02 Dec 2019 |                    |       |
-| 09 Dec 2019 |                    |       |
+| 09 Dec 2019 | Václav Volhejn     | Overfitting and generalization |  Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals. **[Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530)**<br>Mikhail Belkin, Daniel Hsu, Siyuan Ma, Soumik Mandal. **[Reconciling modern machine learning practice and the bias-variance trade-off](https://arxiv.org/abs/1812.11118)**<br>Hartmut Maennel, Olivier Bousquet, Sylvain Gelly. **[Gradient Descent Quantizes ReLU Network Features](https://arxiv.org/abs/1803.08367)**      |
 | 16 Dec 2019 |                    |       |
 |*23 Dec 2019*|*No DL seminar*     |       | *Christmas Holiday*
 |*30 Dec 2019*|*No DL seminar*     |       | *Christmas Holiday*
