@@ -62,7 +62,7 @@ To add your name to a paper the table below, edit the
 | 16 Dec 2019 |                    |       |
 |*23 Dec 2019*|*No DL seminar*     |       | *Christmas Holiday*
 |*30 Dec 2019*|*No DL seminar*     |       | *Christmas Holiday*
-| 06 Jan 2020 | David Kubeša       | Entity Linking | Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann. **[End-to-End Neural Entity Linking](https://arxiv.org/abs/1808.07699)**<br>Possibly also Samuel Broscheit. **[Investigating Entity Knowledge in BERT with Simple Neural End-To-EndEntity Linking](https://www.aclweb.org/anthology/K19-1063.pdf)**
+| 06 Jan 2020 | David Kubeša       | Entity Linking | Nikolaos Kolitsas, Octavian-Eugen Ganea, Thomas Hofmann. **[End-to-End Neural Entity Linking](https://arxiv.org/abs/1808.07699)**<br>Possibly also Samuel Broscheit. **[Investigating Entity Knowledge in BERT with Simple Neural End-To-End Entity Linking](https://www.aclweb.org/anthology/K19-1063.pdf)**
 
 </div>
 
