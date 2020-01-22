@@ -115,8 +115,8 @@ The papers are grouped, each group is expected to be presented on one seminar.
 
 #### Optimization
 - &nbsp;
-  - Michael R. Zhang, James Lucas, Geoffrey Hinton, Jimmy Ba: **[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/abs/1907.08610)**
-  - Liyuan Liu, Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Jiawei Han: **[On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)**
+  - ~~Michael R. Zhang, James Lucas, Geoffrey Hinton, Jimmy Ba: **[Lookahead Optimizer: k steps forward, 1 step back](https://arxiv.org/abs/1907.08610)**~~
+  - ~~Liyuan Liu, Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Jiawei Han: **[On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)**~~
 
 #### Adversarial Examples
 - &nbsp;
