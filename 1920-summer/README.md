@@ -57,7 +57,7 @@ To add your name to a paper the table below, edit the
 | 06 Apr 2020 |                    |       |
 |*13 Apr 2020*|*No DL Seminar*     |       | *Easter Monday*
 | 20 Apr 2020 |                    |       |
-| 27 Apr 2020 |                    |       |
+| 27 Apr 2020 | Jan Waltl          |       | Not sure yet.
 | 04 May 2020 |                    |       |
 | 11 May 2020 |                    |       |
 | 18 May 2020 |                    |       |
