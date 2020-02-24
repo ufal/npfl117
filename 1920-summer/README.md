@@ -49,7 +49,7 @@ To add your name to a paper the table below, edit the
 | Date        | Who                | Topic | Paper(s)
 | ----        | ---                | ----- | --------
 | 24 Feb 2020 | Milan Straka       | CNNs, AutoML | Mingxing Tan, Quoc V. Le: **[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)**<br> Mingxing Tan, Ruoming Pang, Quoc V. Le: **[EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)**
-| 02 Mar 2020 |                    |       |
+| 02 Mar 2020 | Jana Rezabkova     | Networks with External Memory | Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**
 | 09 Mar 2020 |                    |       |
 | 16 Mar 2020 |                    |       |
 | 23 Mar 2020 |                    |       |
@@ -107,7 +107,7 @@ The papers are grouped, each group is expected to be presented on one seminar.
 
 #### Networks with External Memory
 
-- Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**
+- ~~Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**~~
 
 - Mark Collier, Joeran Beel: **[Memory-Augmented Neural Networks for Machine Translation](https://arxiv.org/abs/1909.08314)**
 
