@@ -51,7 +51,7 @@ To add your name to a paper the table below, edit the
 | 24 Feb 2020 | Milan Straka       | CNNs, AutoML | Mingxing Tan, Quoc V. Le: **[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)**<br> Mingxing Tan, Ruoming Pang, Quoc V. Le: **[EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)**
 | 02 Mar 2020 |                    |       |
 | 09 Mar 2020 |                    |       |
-| 16 Mar 2020 |                    |       |
+| 16 Mar 2020 | Ondřej Měkota      |       | TBA
 | 23 Mar 2020 |                    |       |
 | 30 Mar 2020 |                    |       |
 | 06 Apr 2020 |                    |       |
