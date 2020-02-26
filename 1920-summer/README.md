@@ -53,7 +53,7 @@ To add your name to a paper the table below, edit the
 | 09 Mar 2020 |                    |       |
 | 16 Mar 2020 | Ondřej Měkota      |       | TBA
 | 23 Mar 2020 |                    |       |
-| 30 Mar 2020 |                    |       |
+| 30 Mar 2020 | Vastl Martin       |       | TBA
 | 06 Apr 2020 | Štěpán Procházka   |       | Conditional Random Fields (papers TBA)
 |*13 Apr 2020*|*No DL Seminar*     |       | *Easter Monday*
 | 20 Apr 2020 |                    |       |
