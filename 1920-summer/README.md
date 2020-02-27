@@ -52,7 +52,7 @@ To add your name to a paper the table below, edit the
 | 02 Mar 2020 | Jana Rezabkova     | Networks with External Memory | Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**
 | 09 Mar 2020 | Jonáš Kulhánek     |       | 
 | 16 Mar 2020 | Ondřej Měkota      |       | TBA
-| 23 Mar 2020 |                    |       |
+| 23 Mar 2020 | Kačka Macková      | Q&A   |
 | 30 Mar 2020 | Vastl Martin       |       | TBA
 | 06 Apr 2020 | Štěpán Procházka   |       | Conditional Random Fields (papers TBA)
 |*13 Apr 2020*|*No DL Seminar*     |       | *Easter Monday*
