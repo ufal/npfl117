@@ -52,7 +52,7 @@ To add your name to a paper the table below, edit the
 | 02 Mar 2020 | Jana Rezabkova     | Networks with External Memory | Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**
 | 09 Mar 2020 | Jonáš Kulhánek     | DL training, Symbolic DL | Preetum Nakkiran, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, Ilya Sutskever: **[Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)**<br>Guillaume Lample, François Charton: **[Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412)**
 | 16 Mar 2020 | Ondřej Měkota      | Transformer, Chatbot | David R. So, Chen Liang, Quoc V. Le: **[The Evolved Transformer](https://arxiv.org/abs/1901.11117)** ([blog](https://ai.googleblog.com/2019/06/applying-automl-to-transformer.html))<br>Daniel Adiwardana, Minh-Thang Luong, David R. So, Jamie Hall, Noah Fiedel, Romal Thoppilan, Zi Yang, Apoorv Kulshreshtha, Gaurav Nemade, Yifeng Lu, Quoc V. Le: **[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977)** ([blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html))
-| 23 Mar 2020 |                    |      |
+| 23 Mar 2020 | Tomáš Kremel       |       | TBA
 | 30 Mar 2020 | Vastl Martin       |       | TBA
 | 06 Apr 2020 | Štěpán Procházka   |       | Conditional Random Fields (papers TBA)
 |*13 Apr 2020*|*No DL Seminar*     |       | *Easter Monday*
