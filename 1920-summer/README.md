@@ -59,7 +59,7 @@ To add your name to a paper the table below, edit the
 | 20 Apr 2020 | Kačka Macková      | Q&A   |
 | 27 Apr 2020 | Jan Waltl          |       | Not sure yet.
 | 04 May 2020 | Ladislav Malecek   |       | TBA
-| 11 May 2020 |                    |       |
+| 11 May 2020 | Marek Dobransky    |       | TBA
 | 18 May 2020 |                    |       |
 
 </div>
