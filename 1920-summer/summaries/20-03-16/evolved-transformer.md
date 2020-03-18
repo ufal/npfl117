@@ -30,7 +30,7 @@ And the cells themselves can be repeated.
 
 The encoding of an individual is this (see picture below): `[left input, left normalization, left layer, left relative output dimension, left activation, right input, right normalization, right layer, right relative output dimension, right activation, combiner function] × 14 + [number of cells] × 2`
 
-where `14` is there because encoder has 6 blocks and decoder 8 and `2` there is ` type of cell in both encoder and decoder.
+where `14` is there because encoder has 6 blocks and decoder 8, and `2` is a type of cell in both encoder and decoder.
 The specific *values* of each gene are described in Apendix B.
 
 ![Search space](img/search-space.png)
