@@ -1,11 +1,12 @@
 # Evolved Transformer
+(summary by Ondřej Měkota)
 
 Paper: **[The Evolved Transformer](https://arxiv.org/abs/1901.11117)** 
 
 ## Introduction
 This paper improves The [Transformer](https://arxiv.org/abs/1706.03762) by searching for better architecture using an evolutionary algorithm.
 
-![Transformer](transformer.png)
+![Transformer](img/transformer.png)
 
 The search space is similar to NASNet, in that it uses *cells*, within the cells are *blocks* which take two hidden states and produce one.
 
@@ -32,7 +33,7 @@ The encoding of an individual is this (see picture below): `[left input, left no
 where `14` is there because encoder has 6 blocks and decoder 8 and `2` there is ` type of cell in both encoder and decoder.
 The specific *values* of each gene are described in Apendix B.
 
-![Search space](search-space.png)
+![Search space](img/search-space.png)
 
 This search space has size aproximately 10^115.
 
@@ -48,7 +49,7 @@ But if they score more than *h1* after s0+s1 steps, they are granted another s2 
 This happens for a predefined list (~3-6) of training step increments (see picture below).
 This algorithm is well described in Apendix A, in the paper.
 
-![pdh](pdh.png)
+![pdh](img/pdh.png)
 
 ## Results
 They evaluate the method on machine translation and language modelling.
@@ -58,4 +59,24 @@ It has been trained on 16 TPU chips.
 
 They perform an ablation study which shows the effectivness of PDH and the importance of seeding the initial population with the Transformer instead of completely random individuals.
 
-![et](et.png)
+The final Evolved Transformer architecture is shown below (compared to the original Transformer).
+![et](img/et.png)
+
+The final model (caled Evolved Transformer) achieves BLEU higher than any other model.
+Small versions of the model perform also well.
+
+![res0](img/res0.png)
+![res1](img/res1.png) 
+
+
+# My opinions
+### Likes
+- I like they do evolution instead of reinforcement learning. I think it is more stable and it works faster (I'd like to see some comparison though).
+- The PDH are quite interesting and they make it easier to train the model.
+- I like that the final architecture (Evolved Transformer) can be used for many task (as we'll see in the summary of the [next paper](https://arxiv.org/abs/2001.09977)).
+
+### Dislikes
+- The PDH may be suboptimal (I'd say they probably are), and there is another, better architecture.
+- I really can't think of another thing I do not like about the paper.
+
+
