@@ -34,6 +34,16 @@ The specific *values* of each gene are described in Apendix B.
 
 ![Search space](search-space.png)
 
+This search space has size aproximately 10^115.
+
+The initial population is seeded with the Transformer to make the search faster (assuming the Transformer is a good architecture).
+
+### Progressive Dynamic Hurdles
+Because training even one Transformer model takes a lot of time and because there is no obvious proxy task (such as when for NASNet - searching on CIFAR instead of ImageNet), they decided to train each individual for shorter period of time.
+Only high performing individual were granted more time.
+
+Once *m* individuals were evaluated 
+
 
 
 
