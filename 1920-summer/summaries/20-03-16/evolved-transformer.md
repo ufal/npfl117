@@ -42,8 +42,20 @@ The initial population is seeded with the Transformer to make the search faster 
 Because training even one Transformer model takes a lot of time and because there is no obvious proxy task (such as when for NASNet - searching on CIFAR instead of ImageNet), they decided to train each individual for shorter period of time.
 Only high performing individual were granted more time.
 
-Once *m* individuals were evaluated 
+Once *m* individuals were evaluated after (*s0* training steps), their fitness is averaged (*h0*) and those performing more than the average are granted more training steps (s1).
+This process is repeated for the next child models.
+But if they score more than *h1* after s0+s1 steps, they are granted another s2 steps.
+This happens for a predefined list (~3-6) of training step increments (see picture below).
+This algorithm is well described in Apendix A, in the paper.
 
+![pdh](pdh.png)
 
+## Results
+They evaluate the method on machine translation and language modelling.
+Fitness function is perplexity for both tasks.
 
+It has been trained on 16 TPU chips.
 
+They perform an ablation study which shows the effectivness of PDH and the importance of seeding the initial population with the Transformer instead of completely random individuals.
+
+![et](et.png)
