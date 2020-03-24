@@ -48,19 +48,19 @@ To add your name to a paper the table below, edit the
 
 | Date        | Who                | Topic | Paper(s)
 | ----        | ---                | ----- | --------
-| 24 Feb 2020 | Milan Straka       | CNNs, AutoML | Mingxing Tan, Quoc V. Le: **[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)**<br> Mingxing Tan, Ruoming Pang, Quoc V. Le: **[EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)**
-| 02 Mar 2020 | Jana Rezabkova     | Networks with External Memory | Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**
-| 09 Mar 2020 | Jonáš Kulhánek     | DL training, Symbolic DL, SRN | Preetum Nakkiran, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, Ilya Sutskever: **[Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)**<br>Guillaume Lample, François Charton: **[Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412)**<br>Vincent Sitzmann, Michael Zollhöfer, Gordon Wetzstein: **[Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/abs/1906.01618)**
-| 16 Mar 2020 | Ondřej Měkota      | Transformer, Chatbot | David R. So, Chen Liang, Quoc V. Le: **[The Evolved Transformer](https://arxiv.org/abs/1901.11117)** ([blog](https://ai.googleblog.com/2019/06/applying-automl-to-transformer.html))<br>Daniel Adiwardana, Minh-Thang Luong, David R. So, Jamie Hall, Noah Fiedel, Romal Thoppilan, Zi Yang, Apoorv Kulshreshtha, Gaurav Nemade, Yifeng Lu, Quoc V. Le: **[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977)** ([blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html))
-| 23 Mar 2020 | Tomáš Kremel       | AutoML | Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean: **[Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)**<br> Hanxiao Liu, Karen Simonyan, Yiming Yang: **[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)**
-| 30 Mar 2020 | Vastl Martin       |       | TBA
-| 06 Apr 2020 | Štěpán Procházka   |       | Conditional Random Fields (papers TBA)
-|*13 Apr 2020*|*No DL Seminar*     |       | *Easter Monday*
-| 20 Apr 2020 | Kačka Macková      | Q&A   |
-| 27 Apr 2020 | Jan Waltl          |       | Not sure yet.
-| 04 May 2020 | Ladislav Malecek   |       | TBA
-| 11 May 2020 | Marek Dobransky    |       | TBA
-| 18 May 2020 |                    |       |
+| 24 Feb | Milan Straka       | CNNs, AutoML | Mingxing Tan, Quoc V. Le: **[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)**<br> Mingxing Tan, Ruoming Pang, Quoc V. Le: **[EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)**
+| 02 Mar | Jana Rezabkova     | Networks with External Memory | Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap: **[One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)**
+| 09 Mar | Jonáš Kulhánek     | DL training, Symbolic DL, SRN | Preetum Nakkiran, Gal Kaplun, Yamini Bansal, Tristan Yang, Boaz Barak, Ilya Sutskever: **[Deep Double Descent: Where Bigger Models and More Data Hurt](https://arxiv.org/abs/1912.02292)**<br>Guillaume Lample, François Charton: **[Deep Learning for Symbolic Mathematics](https://arxiv.org/abs/1912.01412)**<br>Vincent Sitzmann, Michael Zollhöfer, Gordon Wetzstein: **[Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/abs/1906.01618)**
+| 16 Mar | Ondřej Měkota      | Transformer, Chatbot | David R. So, Chen Liang, Quoc V. Le: **[The Evolved Transformer](https://arxiv.org/abs/1901.11117)** ([blog](https://ai.googleblog.com/2019/06/applying-automl-to-transformer.html))<br>Daniel Adiwardana, Minh-Thang Luong, David R. So, Jamie Hall, Noah Fiedel, Romal Thoppilan, Zi Yang, Apoorv Kulshreshtha, Gaurav Nemade, Yifeng Lu, Quoc V. Le: **[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977)** ([blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html))
+| 23 Mar | Tomáš Kremel       | AutoML | Hieu Pham, Melody Y. Guan, Barret Zoph, Quoc V. Le, Jeff Dean: **[Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)**<br> Hanxiao Liu, Karen Simonyan, Yiming Yang: **[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055)**
+| 30 Mar | Vastl Martin       |       | TBA
+| 06 Apr | Štěpán Procházka   |       | Conditional Random Fields (papers TBA)
+|*13 Apr*|*No DL Seminar*     |       | *Easter Monday*
+| 20 Apr | Kačka Macková      | Q&A   |
+| 27 Apr | Jan Waltl          |       | Not sure yet.
+| 04 May | Ladislav Malecek   |       | TBA
+| 11 May | Marek Dobransky    |       | TBA
+| 18 May |                    |       |
 
 </div>
 
