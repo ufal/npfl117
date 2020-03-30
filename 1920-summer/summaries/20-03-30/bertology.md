@@ -69,6 +69,7 @@ As it can be seen in the picture above, the BERT-large was able to recall knowle
 
 # My opinion
 BERTology paper
+
 Likes:
 - the paper is a comprehensive study on BERT explainability 
 
@@ -78,19 +79,25 @@ Dislikes:
 Other papers:
 
 Does BERT Make Any Sense? Interpretable Word Sense Disambiguation with Contextualized Embeddings
+
 Likes:
 - the error analysis which allowed them to postulate a hypothesis
+
 Dislikes:
 - they could compare other models than only three
 
 Do Attention Heads in BERT Track Syntactic Dependencies?
+
 Likes:
 - I liked that they tried many types of BERT like models
+
 Dislikes:
 - I think they could include some examples of the MAX or MST analysis on some selected sentence
 
 Language Models as Knowledge Bases?
+
 Likes:
 - comparison of many models
+
 Dislikes:
 - only one token answers would be interesting to see how models could deal with more tokens
