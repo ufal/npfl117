@@ -56,7 +56,7 @@ To add your name to a paper the table below, edit the
 | 30 Mar | Vastl Martin<br>**[Paper Summary](https://github.com/ufal/npfl117/blob/master/1920-summer/summaries/20-03-30/bertology.md)** | Transformers, BERT       | Anna Rogers, Olga Kovaleva, Anna Rumshisky **[A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)**
 | 06 Apr | Štěpán Procházka   |       | Conditional Random Fields (papers TBA)
 |*13 Apr*|*No DL Seminar*     |       | *Easter Monday*
-| 20 Apr | Kačka Macková      | Q&A   |
+| 20 Apr | Kačka Macková<br>**[Paper Summary](https://github.com/ufal/npfl117/blob/master/1920-summer/summaries/20-04-20/open_domain_qa.pdf)**      | Q&A   |  Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang. **[REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)**
 | 27 Apr | Jan Waltl          |       | Not sure yet.
 | 04 May | Ladislav Malecek   |       | TBA
 | 11 May | Marek Dobransky    |       | TBA
