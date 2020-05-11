@@ -59,7 +59,7 @@ To add your name to a paper the table below, edit the
 | 20 Apr | Kačka Macková<br>**[Paper Summary](https://github.com/ufal/npfl117/blob/master/1920-summer/summaries/20-04-20/open_domain_qa.pdf)**      | Q&A   |  Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, Ming-Wei Chang. **[REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909.pdf)**
 | 27 Apr | Jan Waltl          |       | Not sure yet.
 | 04 May | Ladislav Malecek   |       | TBA
-| 11 May | Marek Dobransky    |       | Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio: **[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)**<br> Martin Arjovsky, Soumith Chintala, Léon Bottou: **[Wasserstein GAN](https://arxiv.org/abs/1701.07875)**
+| 11 May | Marek Dobransky    |       | Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio: **[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)**<br> Martin Arjovsky, Soumith Chintala, Léon Bottou: **[Wasserstein GAN](https://arxiv.org/abs/1701.07875)**<br> Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville: **[Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)**
 | 18 May |                    |       |
 
 </div>
