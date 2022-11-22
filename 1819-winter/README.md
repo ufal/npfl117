@@ -33,6 +33,11 @@ The Deep Learning Seminar takes place on **Tuesday** at **14:00** in **S8**. We 
 To pass the course, you need to **present a research paper** and sufficiently
 attend the presentations.
 
+### License
+
+Unless otherwise stated, teaching materials for this course are available under
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## Tab: Program
 
 If you want to receive announcements about chosen paper, sign up to our
